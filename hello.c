@@ -12,6 +12,9 @@
      printf("Brennon Overbeek!\n");
      printf("Computer Science\n");
 
+     printf("Eric Schlautman!\n");
+     printf("Computer Science\n");
+  
      return 0;
 
  }
